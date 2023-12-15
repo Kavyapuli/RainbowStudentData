@@ -1,0 +1,7 @@
+Student_Name  ID  Class
+
+Kavya         1   10
+
+Sru           2   10
+
+Teju         3    9
